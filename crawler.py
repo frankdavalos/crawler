@@ -1,6 +1,5 @@
 import urllib,re,time
 
-
 with open('log.txt', 'w') as fobj:
 	html = fobj.read
 
